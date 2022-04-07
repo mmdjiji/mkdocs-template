@@ -3,7 +3,7 @@
 A template of mkdocs by [JiJi](https://mmdjiji.com), for full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Continuous Deployment
-This repository uses GitHub Action for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is https://mmdjiji.github.io/mkdocs-template)
+This repository uses GitHub Actions for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is https://mmdjiji.github.io/mkdocs-template)
 
 ## Commands
 
@@ -17,7 +17,7 @@ This repository uses GitHub Action for continuous deployment. You don't need to 
 ```bash
 mkdocs.yml     # The configuration file.
 .github/
-    workflows/ # For the GitHub Action
+    workflows/ # For the GitHub Actions
 docs/
     index.md   # The documentation homepage.
     ...        # Other markdown pages, images and other files.
