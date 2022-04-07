@@ -1,0 +1,15 @@
+site_name: My Docs
+theme:
+  name: material
+  palette: 
+    - primary: white
+      accent: light blue
+      toggle:
+        icon: material/lightbulb-off-outline 
+        name: Switch to dark mode
+    - primary: black
+      accent: light blue
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
