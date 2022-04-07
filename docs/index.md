@@ -40,23 +40,7 @@ There are many choices for you:
 |readthedocs|
 |material|
 
-Of course, I would like to use `material` theme because of its simple and elegant, here is my configuration:
-```yaml
-theme:
-  name: material
-  palette: 
-    - primary: white
-      accent: light blue
-      toggle:
-        icon: material/lightbulb-off-outline 
-        name: Switch to dark mode
-    - primary: black
-      accent: light blue
-      scheme: slate
-      toggle:
-        icon: material/lightbulb
-        name: Switch to light mode
-```
+Of course, I would like to use `material` theme because of its simple and elegant.
 
 ## License
 Follow [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
