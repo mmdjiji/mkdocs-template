@@ -28,6 +28,7 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+edit_uri: edit/main/docs/
 markdown_extensions:
   - admonition              # 提示块
   - footnotes               # 脚注
