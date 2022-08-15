@@ -4,8 +4,8 @@ GitHub: [mmdjiji/mkdocs-template](https://github.com/mmdjiji/mkdocs-template)
 
 A template of mkdocs by [JiJi](https://mmdjiji.com), for full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Continuous Deployment
-This repository uses GitHub Actions for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is [https://mmdjiji.github.io/mkdocs-template](https://mmdjiji.github.io/mkdocs-template))
+## CI/CD
+This repository uses GitHub Actions for CI/CD. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is [https://mmdjiji.github.io/mkdocs-template](https://mmdjiji.github.io/mkdocs-template))
 
 ## Commands
 
