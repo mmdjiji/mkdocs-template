@@ -43,4 +43,4 @@ There are many choices for you:
 Of course, I would like to use `material` theme because of its simple and elegant.
 
 ## License
-Follow [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
+Follows [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
