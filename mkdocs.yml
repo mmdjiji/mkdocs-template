@@ -1,6 +1,8 @@
 site_name: My Docs
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     - primary: white
       accent: light blue
@@ -28,6 +30,8 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+repo_url: https://github.com/mmdjiji/mkdocs-template
+repo_name: mmdjiji/mkdocs-template
 edit_uri: edit/main/docs/
 markdown_extensions:
   - admonition              # 提示块
@@ -52,3 +56,5 @@ markdown_extensions:
   - pymdownx.magiclink      # 自动识别超链接
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
+extra:
+  homepage: https://github.com/mmdjiji/mkdocs-template
